@@ -1,0 +1,10 @@
+TITLE
+Alex Styles — Graphic Designer Portfolio
+
+CAPTION / PROJECT SUMMARY
+This responsive portfolio site presents Alex Styles’ design approach, selected concept projects, and a contact section. It uses a consistent visual system with responsive typography, CSS Grid and Flexbox layouts, hover transitions, project-detail modals, navigation tooltips, and subtle scroll-reveal effects. The layout includes desktop, tablet, and mobile breakpoints, plus reduced-motion support. The contact form validates required fields and prepares an email in the visitor’s email application; it does not store or send information through a backend.
+
+COPILOT PROCESS SUMMARY — PERSONALIZE BEFORE SUBMITTING
+I used Microsoft Copilot to review and improve the CSS foundation, including typography, color variables, spacing, and the portfolio layout. I asked it to suggest media queries and flexible grid rules for mobile, tablet, and desktop sizes, then checked the page in browser developer tools and refined any layout issues. For the final UI/UX pass, I used Copilot to review hover states, project-detail modals, navigation tooltips, and motion/accessibility behavior. I tested the final result, adjusted suggestions where needed, and kept the HTML, CSS, and JavaScript organized into separate files.
+
+IMPORTANT: Update the Copilot summary so it accurately reflects the work and testing you actually performed. Replace the example contact email before publishing.
